@@ -1,5 +1,5 @@
 "use client";
-
+import Image from 'next/image'
 import React, { useState, useEffect, useRef } from "react";
 import {
   ShieldCheck, Phone, Mail, MapPin, ChevronDown, Menu, X, ArrowRight,
@@ -681,7 +681,7 @@ function DroneDivision() {
               Aerial inspection, built for insurance-grade evidence
             </h2>
             <p className="text-white/65 leading-relaxed mt-6">
-              TFAM Drone Imaging is our dedicated aerial inspection and geospatial survey practice, led by R. Raja Naren — a DGCA Certified Remote Pilot with 6 years of drone operations experience. The division extends TFAM ISLA's risk-engineering approach into aerial data capture for insurance, energy and infrastructure clients.
+              TFAM Drone Imaging is our dedicated aerial inspection and geospatial survey practice, led by R. Raja Naren — a DGCA Certified Remote Pilot with 6 years of drone operations experience. The division extends TFAM ISLAs risk-engineering approach into aerial data capture for insurance, energy and infrastructure clients.
             </p>
             <div className="space-y-4 mt-8">
               {[
