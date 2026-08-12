@@ -681,7 +681,7 @@ function DroneDivision() {
               Aerial inspection, built for insurance-grade evidence
             </h2>
             <p className="text-white/65 leading-relaxed mt-6">
-              TFAM Drone Imaging is our dedicated aerial inspection and geospatial survey practice, led by R. Raja Naren — a DGCA Certified Remote Pilot with 6 years of drone operations experience. The division extends TFAM ISLA's risk-engineering approach into aerial data capture for insurance, energy and infrastructure clients.
+              TFAM Drone Imaging is our dedicated aerial inspection and geospatial survey practice, led by R. Raja Naren — a DGCA Certified Remote Pilot with 6 years of drone operations experience. The division extends TFAM ISLA&apos;s risk-engineering approach into aerial data capture for insurance, energy and infrastructure clients.
             </p>
             <div className="space-y-4 mt-8">
               {[
@@ -871,7 +871,7 @@ function CTA() {
             Ready to request a survey?
           </h2>
           <p className="text-white/60 mt-4 max-w-xl mx-auto">
-            Our Pan-India team responds fast — reach out and we'll route your claim to the right department.
+            Our Pan-India team responds fast — reach out and we&apos;ll route your claim to the right department.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mt-8">
             <a href="tel:+919443433534" className="px-7 py-4 rounded-lg font-bold text-sm flex items-center gap-2" style={{ background: GOLD, color: NAVY }}>
